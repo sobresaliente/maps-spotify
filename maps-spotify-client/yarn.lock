@@ -4400,6 +4400,11 @@ hyphenate-style-name@^1.0.2, hyphenate-style-name@^1.0.4:
   resolved "https://registry.yarnpkg.com/hyphenate-style-name/-/hyphenate-style-name-1.0.4.tgz#691879af8e220aea5750e8827db4ef62a54e361d"
   integrity sha512-ygGZLjmXfPHj+ZWh6LwbC37l43MhfztxetbFCoYTM2VjkIUpeHgSNn7QIyVFj7YQ1Wl9Cbw5sholVJPzWvC2MQ==
 
+i18n-js@^3.9.2:
+  version "3.9.2"
+  resolved "https://registry.yarnpkg.com/i18n-js/-/i18n-js-3.9.2.tgz#4a015dcfabd4c9fc73115fc2d02d2627e4c15ca5"
+  integrity sha512-+Gm8h5HL0emzKhRx2avMKX+nKiVPXeaOZm7Euf2/pbbFcLQoJ3zZYiUykAzoRasijCoWos2Kl1tslmScTgAQKw==
+
 iconv-lite@0.4.24:
   version "0.4.24"
   resolved "https://registry.yarnpkg.com/iconv-lite/-/iconv-lite-0.4.24.tgz#2022b4b25fbddc21d2f524974a474aafe733908b"
@@ -5578,6 +5583,11 @@ lodash.debounce@^4.0.8:
   version "4.0.8"
   resolved "https://registry.yarnpkg.com/lodash.debounce/-/lodash.debounce-4.0.8.tgz#82d79bff30a67c4005ffd5e2515300ad9ca4d7af"
   integrity sha512-FT1yDzDYEoYWhnSGnpE/4Kj1fLZkDFyqRb7fNt6FdYOSxlUWAtp42Eh6Wb0rGIv/m9Bgo7x4GhQbm5Ys4SG5ow==
+
+lodash.memoize@^4.1.2:
+  version "4.1.2"
+  resolved "https://registry.yarnpkg.com/lodash.memoize/-/lodash.memoize-4.1.2.tgz#bcc6c49a42a2840ed997f323eada5ecd182e0bfe"
+  integrity sha512-t7j+NzmgnQzTAYXcsHYLgimltOV1MXHtlOWf6GjL9Kj8GK5FInw5JotxvbOs+IvV1/Dzo04/fCGfLVs7aXb4Ag==
 
 lodash.throttle@^4.1.1:
   version "4.1.1"
@@ -6897,6 +6907,11 @@ react-native-gradle-plugin@^0.0.6:
   version "0.0.6"
   resolved "https://registry.yarnpkg.com/react-native-gradle-plugin/-/react-native-gradle-plugin-0.0.6.tgz#b61a9234ad2f61430937911003cddd7e15c72b45"
   integrity sha512-eIlgtsmDp1jLC24dRn43hB3kEcZVqx6DUQbR0N1ABXGnMEafm9I3V3dUUeD1vh+Dy5WqijSoEwLNUPLgu5zDMg==
+
+react-native-localize@^2.2.2:
+  version "2.2.2"
+  resolved "https://registry.yarnpkg.com/react-native-localize/-/react-native-localize-2.2.2.tgz#a1c6369000c9dae6800eded8ddb1673bf090f84e"
+  integrity sha512-j9aAYyuZblq27XPW3h/cZuBP2WA1OOsEPjTHszPQ/YcM9VrrrYnfpJObP4IyghxmS8i+7Jhoh7qp8CjunfrFjw==
 
 react-native-safe-area-context@4.2.4:
   version "4.2.4"
